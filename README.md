@@ -393,7 +393,7 @@ Row | Item | Description | Completed
 9 | 7-1| Link to `first-website` github.com repo page | https://github.com/Micah125/first-website
 10 | 8-1 | Link to `first-website` github.io "project site" | https://micah125.github.io/first-website/
 11 | 9-1 | What is in Owen's dev branch? |  Rick roll video 
-12 | 10-1 | Link to your new branch on github.com | 
+12 | 10-1 | Link to your new branch on github.com | https://github.com/Micah125/learn-git-milestones/tree/Micah-changes
 13 | 11-1 | Link to your network graph | 
 14 | 12-1 | Link to the PR you made on a partner's github.com repo | 
 
