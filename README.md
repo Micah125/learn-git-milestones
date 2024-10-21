@@ -383,7 +383,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Item | Description | Completed
 --- | --- | --- | ---
 1 | 4a | 1st Favorite emoji | 😁
-2 | 4b | Link to [`commit #1 from Github.com`](https://github.com/Micah125/learn-git-milestones/commits/main/README.md) | Yes
+2 | 4b | Link to [`commit #1 from Github.com`](https://github.com/Micah125/learn-git-milestones/commits/main/README.md) | https://github.com/omundy/learn-git-milestones/commit/c1b9baa87730e1aed85df5a14bafb6a3630524bb
 3 | 4c | Link to [markdown tables docs](https://www.codecademy.com/resources/docs/markdown/tables) | [markdown tables docs](https://www.codecademy.com/resources/docs/markdown/tables)
 4 | 4d | What does `log` do? | This command in Git  displays a list of the commit history for the current branch or repository such as the commit hash, author , date and the commit message.
 5 | 5a | 2nd Favorite emoji | 🐔
