@@ -395,7 +395,7 @@ Row | Item | Description | Completed
 11 | 9-1 | What is in Owen's dev branch? |  Rick roll video 
 12 | 10-1 | Link to your new branch on github.com | https://github.com/Micah125/learn-git-milestones/tree/Micah-changes
 13 | 11-1 | Link to your network graph | https://github.com/Micah125/learn-git-milestones/network
-14 | 12-1 | Link to the PR you made on a partner's github.com repo | 
+14 | 12-1 | Link to the PR you made on a partner's github.com repo | https://github.com/phanderson01/Shadows-1.0-/pull/1 
 
 
 
